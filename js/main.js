@@ -216,7 +216,7 @@
 	DOM.gridItems.forEach(item => items.push(new Item(item)));
 
 	DOM.details = new Details();
-
+/*
 //Contact Form Begins
 	var form = document.forms["contact-form"];
 	form.addEventListener('submit',contact_submit,false);
@@ -249,6 +249,7 @@
 		// Open Mailto in New Window / Tab
 		window.open(uri,'_blank');
 	}
+	*/
 };
 
 
